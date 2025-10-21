@@ -1,0 +1,16 @@
+﻿  GAUSS.cpp
+C:\Users\user\Desktop\GAUSS\GAUSS.cpp(122,28): warning C4244: /=: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=real
+          ]
+C:\Users\user\Desktop\GAUSS\GAUSS.cpp(129,44): warning C4244: -=: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=real
+          ]
+C:\Users\user\Desktop\GAUSS\GAUSS.cpp(161,18): warning C4244: =: преобразование "double" в "real", возможна потеря данных
+C:\Users\user\Desktop\GAUSS\GAUSS.cpp(165,21): warning C4244: =: преобразование "double" в "real", возможна потеря данных
+C:\Users\user\Desktop\GAUSS\GAUSS.cpp(169,43): warning C4244: +=: преобразование "double" в "real", возможна потеря данных
+C:\Users\user\Desktop\GAUSS\GAUSS.cpp(174,27): warning C4244: =: преобразование "double" в "real", возможна потеря данных
+  GAUSS.vcxproj -> C:\Users\user\Desktop\GAUSS\x64\Debug\GAUSS.exe
